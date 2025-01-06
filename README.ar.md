@@ -61,7 +61,7 @@ _دردشة بينج_
 
 تم إنشاء هذا المشروع بسبب الحاجة إلى تحديث المشروع التالي:[بنج الدردشة برو](https://github.com/blueagler/Bing-Chat-Pro). كان هذا الأخير بمثابة مصدر إلهام لتطوير برنامج Copilot Chat Pro™.
 
-شكر خاص للمبدع الأصلي لـ Bing Chat Pro،[blueagler](https://github.com/blueagler)، لمساهمتهم في المجتمع.
+شكر خاص للمبدع الأصلي لـ Bing Chat Pro،[النسور الزرقاء](https://github.com/blueagler)، لمساهمتهم في المجتمع.
 
 ## مشاكل
 
