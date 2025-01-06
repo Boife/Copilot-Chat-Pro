@@ -14,7 +14,7 @@
 
 -   🔍 Prise en charge de Bing Chat et Copilot. Amplifiez votre flux de travail grâce à la recherche intelligente et au codage collaboratif.
 
--   📱 Android Empowerment : participez à la conversation en déplacement ! Copilot Chat Pro™ est désormais disponible sur Android, vous garantissant de rester connecté à tout moment et en tout lieu.
+-   📱 Autonomisation Android : participez à la conversation en déplacement ! Copilot Chat Pro™ est désormais disponible sur Android, vous garantissant de rester connecté à tout moment et en tout lieu.
 
 ## Captures d'écran
 
@@ -57,11 +57,11 @@ _Chat Bing_
 
 ⚠️ L'extension ne fonctionne pas pour le bouton latéral du copilote Edge, ni pour le copilote intégré dans Windows.
 
-## Remerciements
+## Acknowledgements
 
 Ce projet a été créé suite à la nécessité de mettre à jour le projet suivant :[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Ce dernier a servi d’inspiration pour le développement de Copilot Chat Pro™.
 
-Un merci spécial au créateur original de Bing Chat Pro,[Aigle bleu](https://github.com/blueagler), pour leur contribution à la communauté.
+Un merci spécial au créateur original de Bing Chat Pro,[aigles bleus](https://github.com/blueagler), pour leur contribution à la communauté.
 
 ## Problèmes
 
