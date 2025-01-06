@@ -61,7 +61,7 @@ _Bing-Chat_
 
 Dieses Projekt entstand aus der Notwendigkeit heraus, das folgende Projekt zu aktualisieren:[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Letzteres diente als Inspiration für die Entwicklung von Copilot Chat Pro™.
 
-Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[Blueagler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
+Ein besonderer Dank geht an den ursprünglichen Schöpfer von Bing Chat Pro,[blaue Adler](https://github.com/blueagler), für ihren Beitrag zur Gemeinschaft.
 
 ## Probleme
 
@@ -77,5 +77,5 @@ Beiträge sind willkommen! Bitte forken Sie das Repository und erstellen Sie ein
 
 ## Unterstützung
 
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)  
 [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
