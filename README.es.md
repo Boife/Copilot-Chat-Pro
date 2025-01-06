@@ -61,7 +61,7 @@ _Chat de Bing_
 
 Este proyecto fue creado por la necesidad de actualizar el siguiente proyecto:[Bing Chat Pro](https://github.com/blueagler/Bing-Chat-Pro). Este último sirvió de inspiración para el desarrollo de Copilot Chat Pro™.
 
-Un agradecimiento especial al creador original de Bing Chat Pro,[águila azul](https://github.com/blueagler), por su contribución a la comunidad.
+Un agradecimiento especial al creador original de Bing Chat Pro,[águilas azules](https://github.com/blueagler), por su contribución a la comunidad.
 
 ## Asuntos
 
